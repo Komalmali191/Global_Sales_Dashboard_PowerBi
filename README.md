@@ -8,8 +8,14 @@ TOOLS & TECHNOLOGY USED:-
 1.Microsoft Power BI
 2.MS Excel
 KEY FEATURE:
-Key Performance Indicators(KPIs):
-The dashboard prominently display 
+1.Key Performance Indicators(KPIs)
+2.Doughnut Charts
+3.Sales Trend Column Charts
+4.Ribbon Charts
+5.Decomposition
+6.Tree map
+
+
 
 
 
